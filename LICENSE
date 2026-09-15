@@ -3,87 +3,26 @@ ALL RIGHTS RESERVED
 
 Copyright © 2026 Toaxxis. All rights reserved.
 
-This software, including but not limited to its source code, object code, compiled binaries, scripts, configuration files, documentation, assets, libraries, modules, algorithms, functions, interfaces, designs, and any other materials included with or derived from this software (collectively, the "Software"), is the exclusive intellectual property of the copyright holder identified above.
+This software, which includes everything from its source code and object code to compiled binaries, scripts, configuration files, documentation, assets, libraries, modules, algorithms, functions, interfaces, designs, and any other related materials (collectively referred to as the "Software"), is the sole intellectual property of the copyright holder mentioned above.
 
-By accessing, viewing, downloading, copying, modifying, executing, compiling, distributing, or otherwise interacting with the Software, you acknowledge and agree to the terms and conditions set forth in this license.
+By accessing, viewing, downloading, copying, modifying, executing, compiling, distributing, or interacting with the Software in any way, you acknowledge and agree to abide by the terms and conditions outlined in this license.
 
 1. NO PERMISSION GRANTED
 
-No rights, licenses, permissions, or authorizations are granted to you under this license except where explicitly stated in writing by the copyright holder.
+You are not granted any rights, licenses, permissions, or authorizations under this license, except where explicitly stated in writing by the copyright holder.
 
-The Software may not be used, reproduced, copied, modified, adapted, translated, merged, published, transmitted, distributed, redistributed, sublicensed, sold, rented, leased, hosted, displayed, performed, or otherwise made available to any third party without prior written permission from the copyright holder.
+The Software cannot be used, reproduced, copied, modified, adapted, translated, merged, published, transmitted, distributed, redistributed, sublicensed, sold, rented, leased, hosted, displayed, performed, or made available to any third party without prior written consent from the copyright holder.
 
 2. SOURCE CODE
 
-The source code is private and proprietary.
+The source code is confidential and proprietary.
 
-You may not copy the source code, reproduce substantial portions of it, create derivative works based upon it, incorporate it into another project, publish it online, upload it to repositories, or redistribute it in any form without explicit written authorization.
+You are not allowed to copy the source code, reproduce significant portions of it, create derivative works based on it, incorporate it into another project, publish it online, upload it to repositories, or redistribute it in any form without explicit written permission.
 
-Changing variable names, formatting, comments, filenames, function names, or other superficial elements does not constitute an independent work and does not grant permission to use the underlying code.
+Simply changing variable names, formatting, comments, filenames, function names, or other superficial elements does not create an independent work and does not grant you permission to use the underlying code.
 
 3. DISTRIBUTION
 
-Redistribution of the Software, in whole or in part, is strictly prohibited unless expressly authorized in writing.
+Redistributing the Software, in whole or in part, is strictly forbidden unless you have express written authorization.
 
-This prohibition applies regardless of whether the Software is distributed for free, for payment, as part of another project, through a repository, through a website, through a file-sharing service, or by any other method.
-
-4. MODIFICATION AND DERIVATIVE WORKS
-
-You may not modify, adapt, reverse engineer, translate, decompile, disassemble, or create derivative works from the Software without prior written permission, except where applicable law expressly provides an unavoidable right to do so.
-
-Any unauthorized derivative work remains unauthorized regardless of the extent of modifications made to the original Software.
-
-5. COMMERCIAL USE
-
-Commercial use of the Software is prohibited without explicit written permission.
-
-This includes, but is not limited to, incorporating the Software into commercial products, services, applications, websites, games, tools, advertisements, or other revenue-generating activities.
-
-6. PUBLICATION
-
-You may not publish the Software or any substantial portion of its source code on GitHub, GitLab, Bitbucket, forums, websites, social media, paste services, file-sharing platforms, or any other public or private distribution platform without permission.
-
-7. OWNERSHIP
-
-All rights, title, and interest in and to the Software remain with the copyright holder.
-
-Nothing in this license shall be interpreted as transferring ownership or intellectual property rights to any other person or organization.
-
-8. PERMISSION
-
-Any exception to these restrictions must be granted explicitly and in writing by the copyright holder.
-
-Silence, lack of response, public availability of the Software, or the ability to technically access the Software shall not be interpreted as permission.
-
-9. TERMINATION
-
-Any permission granted under a separate written agreement may be terminated if the recipient violates the applicable terms.
-
-Upon termination, the recipient must cease all activities that are no longer authorized and, where legally required, remove unauthorized copies or distributions under their control.
-
-10. NO WARRANTY
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-
-THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
-
-11. LIMITATION OF LIABILITY
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE, INABILITY TO USE, OR MISUSE OF THE SOFTWARE.
-
-12. APPLICABLE LAW
-
-This license is intended to reserve all rights not expressly granted to the recipient.
-
-Nothing in this license is intended to remove or restrict rights that cannot legally be excluded under applicable law.
-
-13. FINAL NOTICE
-
-IF YOU DO NOT HAVE EXPLICIT WRITTEN PERMISSION FROM THE COPYRIGHT HOLDER, YOU ARE NOT AUTHORIZED TO USE, COPY, MODIFY, DISTRIBUTE, PUBLISH, SELL, OR OTHERWISE REDISTRIBUTE THIS SOFTWARE OR ITS SOURCE CODE.
-
-Unauthorized use is not granted merely because the Software is publicly accessible or technically obtainable.
-
-ALL RIGHTS RESERVED.
-
-Copyright © 2026 Toaxxis
-Unauthorized use prohibited.
+This restriction applies whether the Software is distributed for free, for payment, as part of another project, through a repository, or via a website.
